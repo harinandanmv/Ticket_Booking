@@ -1,7 +1,7 @@
-# 🎟️ Theater Ticket Booking System (C Project)
+# 🎟️ Ticket Booking System (C Project)
 
 ## 🌟 Overview
-The **Theater Ticket Booking System** is a beginner-friendly C project designed to simulate a basic ticket reservation platform. It allows users to log in, book or cancel seats, view the current seating layout, and manage a waitlist system for fully booked shows.
+The **Ticket Booking System** is a beginner-friendly C project designed to simulate a basic ticket reservation platform. It allows users to log in, book or cancel seats, view the current seating layout, and manage a waitlist system for fully booked shows.
 
 ---
 
