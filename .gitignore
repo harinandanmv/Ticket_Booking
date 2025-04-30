@@ -1,0 +1,22 @@
+# Ignore compiled files
+*.o
+*.out
+*.exe
+
+# Ignore core dump files
+core*
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore IDE-specific files (for example, if you're using Code::Blocks, Visual Studio, etc.)
+.vscode/
+.idea/
+
+# Ignore any system-specific files
+.DS_Store   # macOS
+Thumbs.db   # Windows
+
+# Ignore build directories
+/build/
