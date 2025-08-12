@@ -76,4 +76,4 @@ This project is free to use for learning and educational purposes.
 To get a copy of this project locally, use the command below:
 
 ```bash
-git clone https://github.com/harinandanmv/ticket_booking_app.git
+git clone https://github.com/harinandanmv/ticket-booking-app.git
